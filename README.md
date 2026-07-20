@@ -53,6 +53,12 @@ Room Database is used for local persistent storage, while LiveData automatically
 - Expense List
 - Add Expense
 
+ # Screenshots
+
+| Expense List | Add Expense |
+|--------------|-------------|
+| ![List](screenshots/main.png) | ![Add](screenshots/add.png) |
+
 ## Future Improvements
 
 - Edit existing expenses
